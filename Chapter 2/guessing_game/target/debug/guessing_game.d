@@ -1,0 +1,1 @@
+C:\Users\Colin\Documents\Code\ Projects\Rust_Tutorial\Chapter\ 2\guessing_game\target\debug\guessing_game.exe: C:\Users\Colin\Documents\Code\ Projects\Rust_Tutorial\Chapter\ 2\guessing_game\src\main.rs
